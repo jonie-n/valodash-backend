@@ -9,7 +9,7 @@ app.use(cors({
     "http://localhost:5173",
     "https://valodash.vercel.app"
   ],
-  credentials: true
+  credentials: false
 }));
 app.use(express.json());
 
