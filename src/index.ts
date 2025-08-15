@@ -13,6 +13,9 @@ app.use(cors({
 }));
 app.use(express.json());
 
+app.get("/", (_req, res) => res.send("OK"));
+app.get("/health", (_req, res) => res.json({ ok: true }));
+
 const PORT = process.env.PORT || 3001;
 
 const DATA_DIR = path.join(__dirname, "data");
