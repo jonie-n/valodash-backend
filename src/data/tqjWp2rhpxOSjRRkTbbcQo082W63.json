@@ -1,0 +1,115 @@
+{
+  "uid": "tqjWp2rhpxOSjRRkTbbcQo082W63",
+  "matches": [
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-1",
+      "agent": "Raze",
+      "map": "Corrode",
+      "kills": 18,
+      "deaths": 4,
+      "assists": 0,
+      "win": true,
+      "date": "2025-08-15T03:22:14.547Z",
+      "headshotPercentage": 8.1
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-2",
+      "agent": "Astra",
+      "map": "Haven",
+      "kills": 24,
+      "deaths": 0,
+      "assists": 13,
+      "win": true,
+      "date": "2025-08-14T03:22:14.547Z",
+      "headshotPercentage": 17.7
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-3",
+      "agent": "Harbor",
+      "map": "Abyss",
+      "kills": 16,
+      "deaths": 14,
+      "assists": 11,
+      "win": false,
+      "date": "2025-08-13T03:22:14.547Z",
+      "headshotPercentage": 19
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-4",
+      "agent": "Raze",
+      "map": "Lotus",
+      "kills": 8,
+      "deaths": 17,
+      "assists": 11,
+      "win": true,
+      "date": "2025-08-12T03:22:14.547Z",
+      "headshotPercentage": 14.7
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-5",
+      "agent": "Harbor",
+      "map": "Fracture",
+      "kills": 0,
+      "deaths": 15,
+      "assists": 3,
+      "win": true,
+      "date": "2025-08-11T03:22:14.547Z",
+      "headshotPercentage": 23
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-6",
+      "agent": "Iso",
+      "map": "Haven",
+      "kills": 0,
+      "deaths": 8,
+      "assists": 13,
+      "win": true,
+      "date": "2025-08-10T03:22:14.547Z",
+      "headshotPercentage": 17.7
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-7",
+      "agent": "Reyna",
+      "map": "Icebox",
+      "kills": 0,
+      "deaths": 19,
+      "assists": 10,
+      "win": false,
+      "date": "2025-08-09T03:22:14.547Z",
+      "headshotPercentage": 18.6
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-8",
+      "agent": "Yoru",
+      "map": "Icebox",
+      "kills": 12,
+      "deaths": 5,
+      "assists": 9,
+      "win": false,
+      "date": "2025-08-08T03:22:14.547Z",
+      "headshotPercentage": 23.5
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-9",
+      "agent": "Raze",
+      "map": "Ascent",
+      "kills": 23,
+      "deaths": 2,
+      "assists": 9,
+      "win": false,
+      "date": "2025-08-07T03:22:14.547Z",
+      "headshotPercentage": 23
+    },
+    {
+      "matchId": "tqjWp2rhpxOSjRRkTbbcQo082W63-match-10",
+      "agent": "Waylay",
+      "map": "Haven",
+      "kills": 7,
+      "deaths": 17,
+      "assists": 7,
+      "win": true,
+      "date": "2025-08-06T03:22:14.547Z",
+      "headshotPercentage": 20
+    }
+  ]
+}

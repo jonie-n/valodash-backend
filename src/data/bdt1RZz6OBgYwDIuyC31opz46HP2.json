@@ -1,0 +1,115 @@
+{
+  "uid": "bdt1RZz6OBgYwDIuyC31opz46HP2",
+  "matches": [
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-1",
+      "agent": "Reyna",
+      "map": "Icebox",
+      "kills": 1,
+      "deaths": 8,
+      "assists": 0,
+      "win": false,
+      "date": "2025-08-15T03:42:03.500Z",
+      "headshotPercentage": 12.9
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-2",
+      "agent": "Reyna",
+      "map": "Breeze",
+      "kills": 23,
+      "deaths": 0,
+      "assists": 11,
+      "win": false,
+      "date": "2025-08-14T03:42:03.500Z",
+      "headshotPercentage": 12.8
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-3",
+      "agent": "Astra",
+      "map": "Haven",
+      "kills": 15,
+      "deaths": 3,
+      "assists": 12,
+      "win": true,
+      "date": "2025-08-13T03:42:03.500Z",
+      "headshotPercentage": 17.3
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-4",
+      "agent": "Gekko",
+      "map": "Pearl",
+      "kills": 11,
+      "deaths": 10,
+      "assists": 11,
+      "win": false,
+      "date": "2025-08-12T03:42:03.500Z",
+      "headshotPercentage": 26.1
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-5",
+      "agent": "Astra",
+      "map": "Icebox",
+      "kills": 11,
+      "deaths": 14,
+      "assists": 0,
+      "win": true,
+      "date": "2025-08-11T03:42:03.500Z",
+      "headshotPercentage": 14
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-6",
+      "agent": "Waylay",
+      "map": "Sunset",
+      "kills": 0,
+      "deaths": 7,
+      "assists": 12,
+      "win": false,
+      "date": "2025-08-10T03:42:03.500Z",
+      "headshotPercentage": 22.6
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-7",
+      "agent": "Brimstone",
+      "map": "Lotus",
+      "kills": 17,
+      "deaths": 15,
+      "assists": 7,
+      "win": true,
+      "date": "2025-08-09T03:42:03.500Z",
+      "headshotPercentage": 24.4
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-8",
+      "agent": "Clove",
+      "map": "Icebox",
+      "kills": 14,
+      "deaths": 7,
+      "assists": 1,
+      "win": true,
+      "date": "2025-08-08T03:42:03.500Z",
+      "headshotPercentage": 15.1
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-9",
+      "agent": "Tejo",
+      "map": "Pearl",
+      "kills": 20,
+      "deaths": 10,
+      "assists": 14,
+      "win": false,
+      "date": "2025-08-07T03:42:03.500Z",
+      "headshotPercentage": 13.9
+    },
+    {
+      "matchId": "bdt1RZz6OBgYwDIuyC31opz46HP2-match-10",
+      "agent": "Phoenix",
+      "map": "Corrode",
+      "kills": 19,
+      "deaths": 5,
+      "assists": 1,
+      "win": false,
+      "date": "2025-08-06T03:42:03.500Z",
+      "headshotPercentage": 21.4
+    }
+  ]
+}

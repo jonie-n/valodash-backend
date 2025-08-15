@@ -1,0 +1,115 @@
+{
+  "uid": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2",
+  "matches": [
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-1",
+      "agent": "Clove",
+      "map": "Breeze",
+      "kills": 19,
+      "deaths": 9,
+      "assists": 12,
+      "win": true,
+      "date": "2025-07-31T08:47:57.603Z",
+      "headshotPercentage": 23.4
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-2",
+      "agent": "Breach",
+      "map": "Haven",
+      "kills": 21,
+      "deaths": 13,
+      "assists": 8,
+      "win": false,
+      "date": "2025-07-30T08:47:57.603Z",
+      "headshotPercentage": 21.7
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-3",
+      "agent": "Neon",
+      "map": "Fracture",
+      "kills": 11,
+      "deaths": 17,
+      "assists": 7,
+      "win": true,
+      "date": "2025-07-29T08:47:57.603Z",
+      "headshotPercentage": 10.9
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-4",
+      "agent": "Waylay",
+      "map": "corrode",
+      "kills": 16,
+      "deaths": 7,
+      "assists": 0,
+      "win": true,
+      "date": "2025-07-28T08:47:57.603Z",
+      "headshotPercentage": 30.8
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-5",
+      "agent": "Phoenix",
+      "map": "Ascent",
+      "kills": 14,
+      "deaths": 12,
+      "assists": 3,
+      "win": true,
+      "date": "2025-07-27T08:47:57.603Z",
+      "headshotPercentage": 18.1
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-6",
+      "agent": "Raze",
+      "map": "Abyss",
+      "kills": 1,
+      "deaths": 18,
+      "assists": 12,
+      "win": true,
+      "date": "2025-07-26T08:47:57.603Z",
+      "headshotPercentage": 20
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-7",
+      "agent": "Kay/o",
+      "map": "Abyss",
+      "kills": 10,
+      "deaths": 18,
+      "assists": 3,
+      "win": false,
+      "date": "2025-07-25T08:47:57.603Z",
+      "headshotPercentage": 20.5
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-8",
+      "agent": "Killjoy",
+      "map": "Abyss",
+      "kills": 10,
+      "deaths": 3,
+      "assists": 0,
+      "win": false,
+      "date": "2025-07-24T08:47:57.603Z",
+      "headshotPercentage": 15.2
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-9",
+      "agent": "Astra",
+      "map": "Pearl",
+      "kills": 4,
+      "deaths": 6,
+      "assists": 9,
+      "win": true,
+      "date": "2025-07-23T08:47:57.603Z",
+      "headshotPercentage": 9.9
+    },
+    {
+      "matchId": "5bQRYJlrPvZFcZuxJ5DFWTSVVdF2-match-10",
+      "agent": "Waylay",
+      "map": "Pearl",
+      "kills": 20,
+      "deaths": 0,
+      "assists": 11,
+      "win": true,
+      "date": "2025-07-22T08:47:57.603Z",
+      "headshotPercentage": 6.1
+    }
+  ]
+}
