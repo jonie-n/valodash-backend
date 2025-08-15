@@ -7,7 +7,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://https://valodash.vercel.app/"
+    "https://valodash.vercel.app/"
   ],
   credentials: true
 }));
